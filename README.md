@@ -2,6 +2,8 @@
 
 **Software Test Engineer** in Cairo, Egypt. ISTQB Certified (Foundation Level, Mobile Application Testing).
 
+[LinkedIn](https://www.linkedin.com/in/khlood-mousad-6521b4213)
+
 I test web, API and mobile products end to end. I write test cases, build UI and API automation, and report bugs with a video and screenshots so developers can reproduce them on the first try.
 
 - 470+ manual test cases and 500+ test scenarios written for a sports platform
